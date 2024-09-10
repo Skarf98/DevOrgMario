@@ -1,3 +1,3 @@
 public with sharing class GitClassTwo {
-    public String ciao;
+    public String deploy;
 }
